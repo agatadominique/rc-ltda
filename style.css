@@ -1,0 +1,22 @@
+.carousel-inner{
+    height: 30vh;
+}
+
+.card-title{
+    margin-bottom: 20px;
+}
+
+.fa-circle-user{
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #333;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #333;
+}
